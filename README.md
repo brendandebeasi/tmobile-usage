@@ -1,7 +1,7 @@
 # tmobile-usage
 A PHP script that programmatically pulls T-Mobile usage data
 ### Usage:
-```php tmobile-usage USERNAME PASSWORD [OUTPATH]```
+```php tmobile-usage.php USERNAME PASSWORD [OUTPATH]```
 
 ### Returns:
     {  
